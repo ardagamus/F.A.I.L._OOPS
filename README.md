@@ -1,7 +1,7 @@
-# 📊 Quantitative Market Analysis ( F.A.I.L)
+# 📊 Financial Anomaly Interpretability Using LLMs ( F.A.I.L)
 
 A sophisticated quantitative analysis framework implementing Object-Oriented Programming principles, SOLID principles, and design patterns for comprehensive market analysis.
-
+ 
 > **📚 [OOP Concepts Documentation](./OOP_CONCEPTS.md)** - Comprehensive guide to all OOP concepts, design patterns, and SOLID principles used in this project.
 
 ## 🏗️ Architecture Overview
