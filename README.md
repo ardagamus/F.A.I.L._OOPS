@@ -1,6 +1,8 @@
-# 📊 Financial Anomaly Interpretability Using LLMs ( F.A.I.L)
+# 📊 Financial Anomaly Interpretability Using LLMs (F.A.I.L)
 
 ### MA5750: Object Oriented Programming Course Project by Aritra Dasgupta (MA25M005), Ashwini (MA25M006), Devharish N (MA25M010), Rumaiz Ibrahim K (MA25M023).
+
+### Now hosted on https://failoops-jp6apprngwv9m5atkmlf4qh.streamlit.app !!
 
 A sophisticated quantitative analysis framework implementing Object-Oriented Programming principles, SOLID principles, and design patterns for comprehensive market analysis.
  
