@@ -19,7 +19,6 @@ This project demonstrates advanced OOP concepts including:
 - **Template Method Pattern**: Pipeline execution flow
 - **Builder Pattern**: Complex pipeline configuration
 - **Repository Pattern**: Data persistence and retrieval
-- **Composite Pattern**: Multi-observer progress tracking
 
 ### 🔧 SOLID Principles
 - **Single Responsibility**: Each class has one reason to change
